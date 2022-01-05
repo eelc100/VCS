@@ -1,0 +1,7 @@
+echo "# VCS" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote เพิ่มต้นทางhttps://github.com/eelc100/VCS.git
+ git push - คุณต้นทางหลัก
